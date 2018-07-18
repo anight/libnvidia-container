@@ -1,3 +1,5 @@
+This fork adds ./build-sles-rpms.sh script to build rpms for sles
+
 # libnvidia-container
 
 [![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat-square)](https://raw.githubusercontent.com/NVIDIA/libnvidia-container/master/LICENSE)
